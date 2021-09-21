@@ -47,5 +47,5 @@ endless_loop:                   # Loop forever more
     jmp     endless_loop    
 
 boot_message:                  # Definition of our boot message 
-    .string "UODos V1.0"
+    .string "Boot Loader V1.0"
 
